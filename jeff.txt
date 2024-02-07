@@ -1,0 +1,90 @@
+  Tax Invoice
+
+----------------------------------------
+         Original for Recipient
+Customer Address:
+John 
+Flat No: 1
+Flr No: N
+Wing: N
+Bldg: N
+Soc: N
+Sec/Loc: N
+Plot No: N
+Street: N
+Area: EDAPALLY
+City: ERNAKULAM
+State: KERALA
+PinCode: 682024
+Contact# 9995877722
+Relationship ID: 9995877722
+----------------------------------------
+your tech expert  
+ID: 60920948
+----------------------------------------
+Place of Supply State Code: 32 KL
+Customer Type : URD
+Supply State GSTN Number:32AABCR1718E1ZY
+----------------------------------------
+ItemName                Qty     Amt(Rs)
+                HSN/SAC
+----------------------------------------
+Oneplus bt bullets z2   1EA     1799.00 
+ EAN#:6921815620402  85183000.0D@S*
+
+BALANCE DUE                  1799.00
+
+PayTM-EDC                    1799.00
+ ApprovalCode:584199
+
+Items Purchased = 1
+          GST RECEIPT SUMMARY
+----------------------------------------
+HSN/SAC Tax  Taxable   Tax        Total
+        Rate  Amount  Amount     Amount
+----------------------------------------
+85183000.0 1524.58    274.42     1799.00
+CGST        9.00%    137.21
+CESS        0.00%      0.00
+SGST        9.00%    137.21
+========================================
+TOTAL:     1524.58    274.42     1799.00
+========================================
+
+               THANK YOU
+C#60920948     Dt: 04/07/2023 20:10:26
+S#8754         Txn#10         R#241     
+PaymentRefNo#8754241001004022024
+Tax Invoice#875424124500259
+----------------------------------------
+----------------------------------------
+DIGITAL ASSIST
+YOUR HAPPINESS IS OUR PRIORITY:)
+If not happy,we will make it right.
+Call:1800 889 1044
+Email:reliancedigital@ril.com
+----------------------------------------
+AMOUNT INCLUSIVE OF APPLICABLE TAXES
+All Disputes are subject to Mumbai
+Reliance Corporate Park,
+Jurisdiction only.
+cheque realization.
+goods will be delivered only after the
+Cheques are subject to realization and
+****************************************
+GSTN #: 32AABCR1718E1ZY
+Please refer to our  Website link
+https://relianceretail.com/privacy-policy.html
+for Privacy Policy
+“Dynamic Quick Response (QR) code is made
+ available to the Recipient through a digital display”
+----------------------------------------
+          8754241001004072023
+              13.2.2 : OK
+
+
+
+----------------------------------------
+
+HD = Home Delivery
+D@S = Delivered to customer at store
